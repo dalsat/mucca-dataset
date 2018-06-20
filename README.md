@@ -1,5 +1,5 @@
 # mucca-dataset
-Dataset used in the Mucca paper. You can read the paper [here](https://www.dalsat.me/download/publications/Bacc2012a.pdf).
+The dataset used in the paper "Content Classification of Development Emails", a.k.a. the _Mucca paper_. You can read the paper [here](https://www.dalsat.me/download/publications/Bacc2012a.pdf).
 
 
 The dataset itself is in the `data/` directory, which contains three entries:
@@ -24,10 +24,9 @@ a list of the classified sentences, with reference to the original email. Each l
 
 The _Jupyter Notebook_ contains the operations to generate the csv from the json, should you need to costomize your dataset.
 
-Citing the dataset
----
+## Citing the dataset
 
-If you use this dataset, please cite it using the reference:
+If you use this dataset, please use the reference:
 
 ```
 @inproceedings{Bacc2012a,
